@@ -26,12 +26,88 @@ pip install rich
 ```json
 [
   {
-    "Address": "192.168.0.1",
-    "Name": "Home Network"
+    "Address": "google.com",
+    "Name": "Google"
   },
   {
-    "Address": "8.8.8.8",
-    "Name": "Google DNS"
+    "Address": "facebook.com",
+    "Name": "Facebook"
+  },
+  {
+    "Address": "youtube.com",
+    "Name": "YouTube"
+  },
+  {
+    "Address": "microsoft.com",
+    "Name": "Microsoft"
+  },
+  {
+    "Address": "amazon.com",
+    "Name": "Amazon"
+  },
+  {
+    "Address": "apple.com",
+    "Name": "Apple"
+  },
+  {
+    "Address": "twitter.com",
+    "Name": "Twitter"
+  },
+  {
+    "Address": "linkedin.com",
+    "Name": "LinkedIn"
+  },
+  {
+    "Address": "netflix.com",
+    "Name": "Netflix"
+  },
+  {
+    "Address": "instagram.com",
+    "Name": "Instagram"
+  },
+  {
+    "Address": "bbc.com",
+    "Name": "BBC"
+  },
+  {
+    "Address": "cnn.com",
+    "Name": "CNN"
+  },
+  {
+    "Address": "nytimes.com",
+    "Name": "The New York Times"
+  },
+  {
+    "Address": "wikipedia.org",
+    "Name": "Wikipedia"
+  },
+  {
+    "Address": "instagram.com",
+    "Name": "Instagram"
+  },
+  {
+    "Address": "digikala.com",
+    "Name": "Digikala"
+  },
+  {
+    "Address": "divar.ir",
+    "Name": "Divar"
+  },
+  {
+    "Address": "aparat.com",
+    "Name": "Aparat"
+  },
+  {
+    "Address": "varzesh3.com",
+    "Name": "Varzesh3"
+  },
+  {
+    "Address": "zoomit.ir",
+    "Name": "Zoomit"
+  },
+  {
+    "Address": "digiato.com",
+    "Name": "Digiato"
   }
 ]
 ```
